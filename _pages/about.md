@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Dexter Green, Computer Scicence Major"
 author_profile: true
 redirect_from: 
   - /about/
