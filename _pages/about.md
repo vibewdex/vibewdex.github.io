@@ -21,3 +21,7 @@ Relevant Coursework:
 
 Department of Computer Science:  
 https://www.cs.uh.edu
+
+
+## Links
+- [Resume (PDF)](files/dextergreenofficalresume.pages)
