@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/5F3FF814-452E-432E-AF34-EAD945F70F70_1_201_a.heic"
+  avatar           : "/images/photo.png"
   name             : "Dexter Green"
   pronouns         : # example: "she/her"  
   bio              : "Computer Science Student interested in Data Analytics"
